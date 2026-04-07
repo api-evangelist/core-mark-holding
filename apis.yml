@@ -1,7 +1,12 @@
 aid: core-mark-holding
-url: https://raw.githubusercontent.com/api-evangelist/core-mark-holding/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/core-mark-holding/refs/heads/main/apis.yml
 modified: '2026-03-23'
 apis: []
 common:
   - type: Website
     url: https://www.core-mark-holding.com
+description: >-
+  Core-Mark Holding Company is one of the largest broad-line, full-service marketers
+  and distributors of packaged consumer products to the convenience retail industry
+  in North America.
