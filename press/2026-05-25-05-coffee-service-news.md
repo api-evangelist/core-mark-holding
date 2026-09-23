@@ -1,7 +1,9 @@
 ---
 title: Coffee Service News
 url: https://www.vendingtimes.com/topics/coffee-service/news/?page=36
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Core-Mark Holding" press release artificial intelligence'
 position: 5
 source: serpapi-google

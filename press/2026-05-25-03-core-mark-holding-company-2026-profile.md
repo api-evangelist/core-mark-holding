@@ -1,7 +1,9 @@
 ---
 title: Core-Mark Holding Company 2026 Profile
 url: https://pitchbook.com/profiles/company/42057-10
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Core-Mark Holding" press release artificial intelligence'
 position: 3
 source: serpapi-google
